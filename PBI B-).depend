@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1447009061 source:d:\cpp\pbi b-)\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<MMSystem.h>
+
+1447009061 source:e:\cpp\pbi b-)\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	<MMSystem.h>
+
